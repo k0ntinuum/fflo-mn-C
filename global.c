@@ -7,8 +7,8 @@ int C = 100; //pix cols
 int H = 10; //pix height
 int W = 10; //pix width
 
-const int F = 10; //max num filters
-const int L =100; //max weights in filter
+const int F = 10; 
+const int L =100; 
 typedef struct {
     int length;
     int r[L];
